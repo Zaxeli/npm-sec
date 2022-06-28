@@ -1,0 +1,8 @@
+pkg_inspect/*
+pkg_inspect
+df.csv
+test.py
+util/data/*
+!util/data/.gitkeep
+__pycache__/*
+util/__pycache__/*
