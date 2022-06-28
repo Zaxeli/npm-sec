@@ -1,6 +1,14 @@
-# NPM metadata analysis tool
+# Npm package manager security for developers using metadata analysis
 
-This is the main pacakge radius analyser for npm metadata analysis. The project is described in the paper (link to add).
+This project was done as my final practicum for completing MS in Cybersecurit @ Georgia Tech. I worked on it during January-May 2022, and completed it in May 2022.
+
+The paper for this project is available here: [Npm package manager security for developers using metadata analysis](https://github.com/Zaxeli/Zaxeli.github.io/blob/main/files/npm_sec.pdf).
+
+It takes much inspiration from the work of [Maloss](https://github.com/osssanitizer/maloss). Their paper is available at [Towards Measuring Supply Chain Attacks on Package Managers for Interpreted Languages](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1B-1_23055_paper.pdf).
+
+This is the code which I have made publicly available for my project. The project is described in the paper in much more detail.
+
+ <!-- It main package radius analyser for npm metadata analysis.  -->
 
 ## How to use
 
